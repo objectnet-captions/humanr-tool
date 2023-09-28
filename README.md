@@ -10,7 +10,7 @@ rewards they offer. **This toolkit will always explicitly request your permissio
 # How to run HUMANr
 
 ```(bash)
-$ git clone https://github.com/objectnet-captions/humanr.git && cd humanr-toolkit
+$ git clone https://github.com/objectnet-captions/humanr-tool.git && cd humanr-tool
 $ pip install -r requirement.txt
 $ aws configure
 $ emacs set_environment.sh
